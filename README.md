@@ -24,7 +24,7 @@ developers diving into the stylesheet.
 The quick and easy way is to install the entire repository through npm, 
 then import and configure the modules in your stylesheet.
 
-```
+```css
 /* import the entire kit */
 @import 'style-kit';
 
