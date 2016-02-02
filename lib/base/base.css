@@ -12,7 +12,7 @@
  */
 
 body {
-    background: var(--base-body-background);
+    background: var(--base-body-background); /* 1 */
 }
 
 /**
@@ -32,11 +32,11 @@ img {
 }
 
 /**
- * Remove default border from iframes
+ * 1. Remove default border from iframes
  */
 
 iframe {
-    border: 0;
+    border: 0; /* 1 */
 }
 
 /**

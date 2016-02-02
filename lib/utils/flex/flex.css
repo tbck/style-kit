@@ -1,11 +1,11 @@
 /* ==========================================================================
-Flex utilities
-========================================================================== */
+   Flex utilities
+   ========================================================================== */
 
 /** @define utilities */
 
 /* Applies to flex container
-========================================================================== */
+   ========================================================================== */
 
 /**
  * Container
@@ -109,7 +109,8 @@ Flex utilities
 }
 
 /**
- * Aligns items within the flex container when there is extra space in the cross-axis
+ * Aligns items within the flex container when there is extra space in the
+ * cross-axis
  *
  * Has no effect when there is only one line of flex items.
  */
@@ -150,7 +151,7 @@ Flex utilities
 }
 
 /* Applies to flex items
-========================================================================== */
+   ========================================================================== */
 
 /**
  * Override default alignment of single item when specified by `align-items`
@@ -202,11 +203,12 @@ Flex utilities
  *
  * Supports 1-5 proportions
  *
- * 1. Provide all values to avoid IE10 bug with shorthand flex - http://git.io/vllC7
+ * 1. Provide all values to avoid IE10 bug with shorthand flex
+ *    http://git.io/vllC7
  *
- *    Use `0%` to avoid bug in IE10/11 with unitless flex basis. Using this instead
- *    of `auto` as this matches what the default would be with `flex` shorthand
- *    http://git.io/vllWx
+ *    Use `0%` to avoid bug in IE10/11 with unitless flex basis. Using this
+ *    instead of `auto` as this matches what the default would be with `flex`
+ *    shorthand - http://git.io/vllWx
  */
 
 .u-flexGrow1 {
@@ -230,7 +232,8 @@ Flex utilities
 }
 
 /**
- * Aligning with `auto` margins - http://www.w3.org/TR/css-flexbox-1/#auto-margins
+ * Aligning with `auto` margins
+ * http://www.w3.org/TR/css-flexbox-1/#auto-margins
  */
 
 .u-flexExpand {
