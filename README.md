@@ -8,8 +8,7 @@ including [naming convention](http://github.com/suitcss/suit/blob/master/doc/nam
 [style format](http://github.com/suitcss/suit/blob/master/doc/STYLE.md#css),
 and [architectural principles](http://github.com/suitcss/suit/blob/master/doc/design-principles.md).
 
-**Note:** Modules are currently lacking usage documentation and visual tests. 
-This is coming soon.
+Basic visual tests are in [`test/`](http://tbck.github.io/style-kit/test/).
 
 
 ## Usage
