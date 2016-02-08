@@ -1,7 +1,7 @@
 {
   "name": "style-kit",
   "description": "A set of composable CSS modules that provide a solid foundation for starting a new project.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "author": {
     "name": "Tyler Buck",
