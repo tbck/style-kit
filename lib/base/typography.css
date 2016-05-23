@@ -18,18 +18,13 @@
     --base-typography-letterSpacing: 0;
     --base-typography-lineHeight: 20px;
     --base-typography-spacing: var(--base-typography-lineHeight);
-}
 
-:root {
     --base-typography-link-color: #000;
     --base-typography-link-colorHover: var(--base-typography-link-color);
     --base-typography-link-decoration: underline;
     --base-typography-link-decorationHover: underline;
-}
 
-/* headings */
-
-:root {
+    /* headings */
     --base-typography-h1-fontSize: 32px;
     --base-typography-h2-fontSize: 28px;
     --base-typography-h3-fontSize: 24px;
